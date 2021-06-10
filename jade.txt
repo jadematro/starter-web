@@ -1,0 +1,13 @@
+Computer language design is just like a stroll in 
+the park. Jurassic Park, that is. (Larry Wall) Just 
+remember: you’re not a ‘dummy,’ no matter what those 
+computer books claim. The real dummies are the 
+people who–though technically expert–couldn’t design 
+hardware and software that’s usable by normal 
+consumers if their lives depended upon it. (Walter 
+Mossberg) Fine, Java MIGHT be a good example of what 
+a programming language should be like. But Java 
+applications are good examples of what applications 
+SHOULDN’T be like. (pixadel) The Web is like a 
+dominatrix. Everywhere I turn, I see little buttons 
+ordering me to Submit. (Nytwind)
